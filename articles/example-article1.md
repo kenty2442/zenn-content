@@ -1,8 +1,9 @@
 ---
 title: "test"
-emoji: "🥲"
-type: ""tech
+emoji: "🐱"
+type: "tech"
 topics: ["zenn"]
-published: "false"
+published: false
 ---
-test
+
+testa
