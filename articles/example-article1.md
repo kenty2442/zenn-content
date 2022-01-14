@@ -1,4 +1,4 @@
 ---
-titile : test
+title: test
 ---
 test
